@@ -5,4 +5,4 @@
 # Tuan Yon sangat senang karena tahun ini mahasiswa ITB angkatan 2019 masuk ke ITB. Karenanya, ia ingin menyambut mahasiswa ITB dengan membuat program yang menerima nama mahasiswa baru dan menuliskan ucapan selamat datang.
 
 Nama_maba = input("Masukkan nama mahasiswa baru : ")
-print("Halo %s, selamat datang di ITB!" % Nama_maba)
+print("Halo %s, selamat datang di Institut Teknologi Bandung!" % Nama_maba)
